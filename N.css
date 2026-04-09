@@ -1,0 +1,42 @@
+body{
+	background:#7bed9a;
+}
+.kan{
+	max-width:600px;
+	padding:20px;
+	border-radius:8px;
+	margin:auto;
+	box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+}
+.rad{
+	font-weight:normal;
+	display:flex;
+	margin-right:15px;
+	width:flex;
+	box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+	border-radius:8px;
+}
+
+.rf{
+		font-weight:normal;
+	display:flex;
+	margin-right:15px;
+	width:flex;
+	box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+	border-radius:8px;
+	
+}
+
+label{
+	display:block;
+	margin-top:10px;
+	font-weight:bold;
+}
+.Kan{
+	max-width:600px;
+	padding:20px;
+	border-radius:8px;
+	margin:auto;
+	white-space:pre-line;
+	box-shadow: 0 4px 18px rgba(0,0,0,0.8);
+}
